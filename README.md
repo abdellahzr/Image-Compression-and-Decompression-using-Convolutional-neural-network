@@ -74,4 +74,8 @@ For questions or suggestions, feel free to contact me at:
 **abdellah.zerabib@gmail.com**
 
 ---
+## Contributors
+
+- Abdellah Zerabib (Main developer)
+- Hammi Nadje Eddine (Main developer)
 
