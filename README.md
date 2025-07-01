@@ -6,13 +6,13 @@ This repository contains the implementation of an image compression project deve
 
 ## Repository Structure
 
-├── notebooks/ # Jupyter notebooks containing all the code
-│ ├── training.ipynb # Notebook for training the compression model
-│ ├── testing.ipynb # Notebook for testing and evaluating the model
-├── checkpoints/ # Saved model weights (best performing checkpoints)
-├── thesis/ # Master thesis document
-│ └── Master_Thesis.pdf
-├── README.md # This file
+
+- training.ipynb  (training notebook)
+- testing.ipynb   (testing notebook)
+- checkpoints/     (saved model weights)
+- Master_Thesis.pdf
+- README.md        (this file)
+
 
 
 
